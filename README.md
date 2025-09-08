@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to My GitHub Portfolio!
+# Welcome to My GitHub Portfolio!
 
 Hello! I’m Mehak, a software developer with a passion for building **scalable**, **user-friendly applications**. Whether it’s designing APIs, building complex data pipelines, or deploying interactive web applications, I’m always looking for opportunities to solve real-world problems.
 
@@ -15,7 +15,7 @@ Hello! I’m Mehak, a software developer with a passion for building **scalable*
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Here are some of the projects I’m most proud of. These demonstrate my **technical skills** and **problem-solving** abilities:
 
